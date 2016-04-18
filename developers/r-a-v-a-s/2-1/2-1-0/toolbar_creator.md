@@ -19,4 +19,3 @@ To delete an existing toolbar:
 
 1. select the toolbar from the drop down menu
 2. press `-`
-3. exit the window (restart to remove the toolbar)
