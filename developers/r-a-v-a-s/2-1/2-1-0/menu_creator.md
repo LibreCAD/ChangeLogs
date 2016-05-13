@@ -12,7 +12,7 @@ To edit an existing menu:
 1. select the menu from the drop down menu
 2. double-click to remove actions
 3. drag and drop to arrange actions
-4. press create
+4. press update
 
 To assign a menu:
 
