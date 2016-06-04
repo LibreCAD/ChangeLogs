@@ -22,4 +22,5 @@ Toolbars can be dragged and dropped anywhere you want.
 In the drawing area, right-click will exit the current tool and then open a menu.  
 Any tool you use will be placed at the top of the right-click menu.
 
-You can also create a custom menu that appears when you double-click.  
+You can also create custom menus that you can assign to    
+Double-Click, Right-Click, Ctrl+Right-Click and Shift+Right-Click.
