@@ -4,7 +4,7 @@ however, I recommend making custom toolbars and menus (e.g. right-click menu).
 [1]:https://github.com/LibreCAD/ChangeLogs/blob/master/developers/r-a-v-a-s/2-1/2-1-0/old_cad_toolbar.md
 
 It's been a year and there's still plenty of refinement that can be done;  
-however, everything works; and the improvements are too significant to wait any longer.
+however, everything works; and the improvements are too significant to wait any longer.  
 LibreCAD is a much more stable and customizable program now.
 
 - https://github.com/r-a-v-a-s
@@ -21,8 +21,8 @@ Thanks to all contributors and special thanks to:
 
 ## Custom Toolbars
 
-The Toolbar Creator (in the Widgets menu) offers a list of every tool (action)
-in LibreCAD. You can create any amount of toolbars and edit them later.
+The Toolbar Creator (in the Widgets menu) offers a list of every tool (action) in LibreCAD.  
+You can create any amount of toolbars and edit them later.  
 Like all toolbars they can be dragged and dropped to where you want them.
 
 There is also a new toolbar icon size option in 'Widget Options'.
@@ -42,22 +42,22 @@ Right-Click will invoke a list of recently used tools.
 
 ## Dock Areas
 
-Dock widgets (e.g. command line or layer list) 
-can be moved and docked at the top, bottom, left or right.
-You can now show and hide all the dock widgets 
-in a specific dock area. You can also toggle
-the visibility of all floating dock widgets
+Dock widgets (e.g. command line or layer list)  
+can be moved and docked at the top, bottom, left or right.  
+You can now show and hide all the dock widgets  
+in a specific dock area. You can also toggle  
+the visibility of all floating dock widgets  
 (those which are not currently docked).
 
 ## Keycodes
 
-In Application Preferences you can enable Keycode mode.
-A command of two characters is considered a keycode,
+In Application Preferences you can enable Keycode mode.  
+A command of two characters is considered a keycode,  
 and it will automatically trigger (i.e. you don't need to press Enter).
 
 ## Styles and Style Sheets
 
-You can now dramatically change the way LibreCAD looks! 
+You can now dramatically change the way LibreCAD looks!  
 https://github.com/LibreCAD/LibreCAD/wiki/Style-Sheets
 
 ## Exclusive snap mode
@@ -71,7 +71,7 @@ The snap modes are remembered in each state.
 
 ## More...
 
-I recommend trying the new Spiderweb snap indicator
+I recommend trying the new Spiderweb snap indicator  
 in combination with the "Hide cursor when snapping" option.
 
 There is a fullscreen mode.
